@@ -1,1 +1,0 @@
-export { default as CurriculumVitaeView } from './curriculumVitae-view';
