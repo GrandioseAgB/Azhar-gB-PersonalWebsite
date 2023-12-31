@@ -1,10 +1,17 @@
 {
   "name": "azhar-gb",
+  "homepage": "https://GrandioseAgB.github.io/Azhar-gB-PersonalWebsite/",
   "author": "azhargb",
   "licence": "MIT",
   "version": "1.8.0",
-  "private": false,
+  "private": true,
   "scripts": {
+    // "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    // "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
     "dev": "vite",
     "start": "vite preview",
     "build": "vite build",
