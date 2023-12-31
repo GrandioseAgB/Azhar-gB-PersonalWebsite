@@ -6,7 +6,7 @@ import checker from 'vite-plugin-checker';
 // ----------------------------------------------------------------------
 
 export default defineConfig({
-  base: "/Azhar-gB-PersonalWebsite",
+  base: ".",
   plugins: [
     react(),
     checker({
