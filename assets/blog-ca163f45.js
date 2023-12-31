@@ -1,0 +1,1 @@
+import{j as r,W as t}from"./index-b6badabd.js";import{C as e}from"./Container-169188bd.js";function n(){return r.jsx(e,{})}function s(){return r.jsxs(r.Fragment,{children:[r.jsx(t,{children:r.jsx("title",{children:" Blog | Azhar gB "})}),r.jsx(n,{})]})}export{s as default};
