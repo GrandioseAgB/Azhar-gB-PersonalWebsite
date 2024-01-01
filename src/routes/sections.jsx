@@ -45,7 +45,7 @@ export default function Router() {
     {
       path: '*',
       // commented by Agb element: <Navigate to="/404" replace />,
-      element: <Navigate to="/resume1234" replace />,
+      element: <Navigate to="/blog/" replace />,
     },
   ]);
 
